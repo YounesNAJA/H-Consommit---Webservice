@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="h_consommit" match-name="aleatoire_eau"/>  
+  <table-filter match-catalog="h_consommit" match-name="compte"/>
+  <table-filter match-catalog="h_consommit" match-name="mensuelle_eau"/>
+  <table-filter match-catalog="h_consommit" match-name="keys"/>  
+  <table-filter match-catalog="h_consommit" match-name="tranche_tarif_eau"/>
+  <table-filter match-catalog="h_consommit" match-name="tranche_assainissement_eau"/>
+  <table-filter match-catalog="h_consommit" match-name="tranche_tarif_elec"/>
+  <table-filter match-catalog="h_consommit" match-name="mensuelle_elec"/>
+  <table-filter match-catalog="h_consommit" match-name="aleatoire_elec"/>
+</hibernate-reverse-engineering>
